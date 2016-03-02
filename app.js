@@ -11,7 +11,7 @@ var session = require('express-session');
 
 var routes = require('./routes/index');
 var admin = require('./routes/admin');
-var admin = require('./routes/settings');
+// var admin = require('./routes/settings');
 
 
 var app = express();
